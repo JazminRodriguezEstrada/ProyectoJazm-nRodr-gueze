@@ -1,6 +1,7 @@
+//Calificado
 #include <iostream>// Libreria de IO
 using namespace std;// No repetir STD
-int main () { //menú
+int main () { //menÃº
     int mes;// Variable
     cout<<"Ingrese un numero de mes (1-12): "; // Imprimir
     cin>>mes; //Guardar variable
